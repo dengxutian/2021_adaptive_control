@@ -6,11 +6,11 @@ A generic ML code to fulfill adaptive control (DL&amp;RL).
 
 A simple network to regress environment parameters.
 
-##RL
+## RL
 
 1. Base on DQN.
 2. Learning to adjust PID parameters.
 
-##Author information
+## Author information
 
 dengxutian@126.com
